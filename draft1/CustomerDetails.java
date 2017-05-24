@@ -1,4 +1,4 @@
-package draft1;
+package grp1;
 
 public interface CustomerDetails {
 	
